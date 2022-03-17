@@ -10,7 +10,7 @@ import Container from "@mui/material/Container";
 import Button from "@mui/material/Button";
 import MenuItem from "@mui/material/MenuItem";
 import { Link } from "react-router-dom";
-import logo from "./../logo.png";
+import logo from "./../assets/logo.png";
 
 const NavBar = ({ pages }) => {
   const [anchorElNav, setAnchorElNav] = React.useState(null);

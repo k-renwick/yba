@@ -1,4 +1,4 @@
-import logo from "./logo.png";
+import logo from "./assets/logo.png";
 import NavBar from "./components/NavBar";
 import { Routes, Route } from "react-router-dom";
 import { ThemeProvider, createTheme } from "@mui/material/styles";
