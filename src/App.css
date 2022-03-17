@@ -9,6 +9,11 @@
   color: white;
 }
 
+.nav-item {
+  color: white;
+  text-decoration: none;
+}
+
 .yba-logo {
   height: 7.5vmin;
   padding: 0.5vmin;
